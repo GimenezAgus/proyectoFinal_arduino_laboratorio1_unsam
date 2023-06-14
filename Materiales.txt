@@ -1,0 +1,9 @@
+Materiales:
+Arduino uno (1)
+Protoboard (1)
+Pulsador (1)
+Modulo de leds MAX 7219(8x8)
+Resistencias
+Cables
+Neo Pixel (de 4)
+Buzzer (1)
